@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #97",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/97.png",
+  "dna": "f0b598a54f9029d544067b776efd1bde08bd7207",
+  "edition": 97,
+  "date": 1652384058650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_2"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_3"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_1"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_2"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_3"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_3"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_2"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_9"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_57"
+    }
+  ]
+}

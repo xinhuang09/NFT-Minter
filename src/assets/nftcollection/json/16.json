@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #16",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/16.png",
+  "dna": "f8e0485d0c1061b332795fdfee7e1b70bc085078",
+  "edition": 16,
+  "date": 1652384055639,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_1"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_4"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_0"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_4"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_5"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_12"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_1"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_3"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_39"
+    }
+  ]
+}
