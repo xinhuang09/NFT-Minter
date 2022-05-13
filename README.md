@@ -13,7 +13,8 @@ In this project, we've created a full-stack DAPP for users to mint static and dy
 We program a full-stack blockchain DAPP mainly focusing on NFT minting, we use solidity to program the smart contract as the core of the backend and JS for the web development of the frontend, also we discuss a new encryption approach for Gifs and Video, which is inspired by the concept of Merkle Tree. By combining those techniques, we bring an DAPP with a core functionality of NFT minting and several novelties.
 
 ## Showcase
-
+#### Video Demo
+https://youtu.be/VWwFHtxPnuI
 
 ## Functionality
 
