@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #7",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/7.png",
+  "dna": "2dc34df82802d6bd6f1d0f4af417a363b087a6ce",
+  "edition": 7,
+  "date": 1652384055259,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_9"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_3"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_0"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_0"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_4"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_11"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_2"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_4"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_26"
+    }
+  ]
+}

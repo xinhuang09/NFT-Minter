@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #69",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/69.png",
+  "dna": "0ee24fb5e8f53ba10e3d5357e9fbeca8540572b5",
+  "edition": 69,
+  "date": 1652384057627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_8"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_0"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_0"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_1"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_5"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_20"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_0"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_10"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_41"
+    }
+  ]
+}

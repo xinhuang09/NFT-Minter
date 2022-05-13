@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #10",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/10.png",
+  "dna": "99a3d26bee354db874923203fb15e0d17ef7692a",
+  "edition": 10,
+  "date": 1652384055374,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_2"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_2"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_0"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_0"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_7"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_17"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_0"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_7"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_41"
+    }
+  ]
+}

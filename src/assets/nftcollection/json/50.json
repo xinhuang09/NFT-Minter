@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #50",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/50.png",
+  "dna": "5fe93ce24a49da7c3858c2dfc4fc9a09a4f8a5eb",
+  "edition": 50,
+  "date": 1652384056923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_6"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_0"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_0"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_2"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_5"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_18"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_0"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_6"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_42"
+    }
+  ]
+}

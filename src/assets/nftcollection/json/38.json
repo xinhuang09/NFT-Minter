@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #38",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/38.png",
+  "dna": "b52badf10a71c711966a37eeb8a32e7f4f79bb65",
+  "edition": 38,
+  "date": 1652384056487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_1"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_2"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_2"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_5"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_3"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_2"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_2"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_3"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_0"
+    }
+  ]
+}

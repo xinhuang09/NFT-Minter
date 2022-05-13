@@ -1,0 +1,46 @@
+{
+  "name": "Your Collection #23",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/23.png",
+  "dna": "8d82476a84b15fd319a4aa1ac972a37cf57f5401",
+  "edition": 23,
+  "date": 1652384055911,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_0"
+    },
+    {
+      "trait_type": "face",
+      "value": "face_2"
+    },
+    {
+      "trait_type": "nose",
+      "value": "nose_0"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "mouth_2"
+    },
+    {
+      "trait_type": "eye",
+      "value": "eye_7"
+    },
+    {
+      "trait_type": "beard",
+      "value": "beard_14"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "accessories_2"
+    },
+    {
+      "trait_type": "sunglasses",
+      "value": "sunglasses_5"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hair_5"
+    }
+  ]
+}
